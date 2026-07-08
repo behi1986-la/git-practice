@@ -1,4 +1,3 @@
-THis is only on feature-test
-this is conflict from branch
-this line is from master branch
+
+this is a final version
 
