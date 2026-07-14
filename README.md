@@ -1,4 +1,5 @@
-
+contact page added
+ 
 tua is flower
 where is tiea
 hehloo my friend
